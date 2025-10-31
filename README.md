@@ -22,7 +22,8 @@ Collect, test, and organize HTTP/SOCKS4/SOCKS5 proxies from multiple sources wit
 
 ## 🔗 Related
 
-Get pre-checked proxies from [monosans/proxy-list](https://github.com/monosans/proxy-list) - updated regularly using this tool.
+- Get pre-checked proxies from [monosans/proxy-list](https://github.com/monosans/proxy-list) - updated regularly using this tool.
+- Looking for a simpler, single-file version? Check out [**Python Edition**](PYTHON_VERSION.md) - easier to customize and runs anywhere!
 
 ## ⚠️ SAFETY WARNING ⚠️
 
